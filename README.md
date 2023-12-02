@@ -1,2 +1,2 @@
-# PythonCrashCourse
+# Personal Project
 Exercises 
